@@ -48,5 +48,5 @@ For this implementation we use an approach is to distribute the shared key with 
 Then follow the terminal instructions.
 
 ### Issues
-Currently we are able to encrypt and decrypt the messages with own keys, but we need to create our own keys, so that we can use these in next implementation.
+Currently we are able to encrypt and decrypt the messages with the keys, but we need to generate them with our own keys, so that we can use these in next implementation i.e., to integrate the algorithm with the VANET network.
 
