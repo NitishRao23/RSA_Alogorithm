@@ -40,3 +40,13 @@ For this implementation we use an approach is to distribute the shared key with 
 	3. Once it is installed check the version using "python --version" command.
 	4. Check the path in the environment variables for any issues in the installation process.
 
+## Commands
+```wsl winpty```   
+```sudo su```  
+```apt-get install python```  
+```python <pythonfile.py>```  
+Then follow the terminal instructions.
+
+### Issues
+Currently we are able to encrypt and decrypt the messages with own keys, but we need to create our own keys, so that we can use these in next implementation.
+
